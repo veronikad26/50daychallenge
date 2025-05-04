@@ -5,7 +5,7 @@ Welcome to the **50 Days Coding Challenge**,  a focused and structured initiativ
 ## 🎯 Objective
 
 The goal is to instill consistency, enhance logical thinking, and boost coding proficiency through daily practice in two key areas:
-- **Data Structures Algorithms **
+- **Data Structures Algorithms**
 - **Mathematics-based programming**
 
 ## 🧠 Challenge Format
